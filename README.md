@@ -1,5 +1,6 @@
 # Django-Portfolio
-Portfolio website created with Django framework, CSS and HTML
+Portfolio website created with Django framework, CSS and HTML.
+Currently hosted on: http://tlalky.eu.pythonanywhere.com/
 
 Base view
 ![image](https://user-images.githubusercontent.com/56046688/212323177-cb511577-a66f-4a42-8045-07fd7bdceb4e.png)
