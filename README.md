@@ -3,7 +3,7 @@ Portfolio website created with Django framework, CSS and HTML.
 Currently hosted on: http://tlalky.eu.pythonanywhere.com/
 
 Base view
-![image](https://user-images.githubusercontent.com/56046688/212323177-cb511577-a66f-4a42-8045-07fd7bdceb4e.png)
+![image](https://user-images.githubusercontent.com/56046688/213141034-4a9e2d31-6686-4587-a6a8-e5bf40f5f7f5.png)
 
 All icons and project names are clickable. When project name, github logo or linkedin logo is clicked you will be redirected to appropriate webpage. 
 Example for Flask Authentication App clicked:
