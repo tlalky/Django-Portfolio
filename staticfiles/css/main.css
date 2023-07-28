@@ -64,6 +64,7 @@ a:visited, a:active, a:hover {  /* links to github */
 .bubbles {
     position:relative;
     display:flex;
+    justify-content: space-between;
 }
 
 .bubbles span {
